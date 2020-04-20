@@ -10,6 +10,7 @@ Slides can be  found [here](https://docs.google.com/presentation/d/19L7b1h5HbngA
 * [Graph Analytics]( https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Graph_Analytics.ipynb)
 * [NetworkX](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/NetworkX.ipynb)
 * [Node2Vec](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Node2Vec.ipynb)
+* [Building a GCN from scratch](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Basic_GCN.ipynb)
 * [Deep Graph Library](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/DGL.ipynb)
 * [Metadata](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Metadata.ipynb)
 
