@@ -1,0 +1,11 @@
+Id,bank_id,branch_id,branch_name,street_name,City,Country,Postcode
+10001,10000000001,10001,Bank One Denver,Elm Street,Denver,US,80014
+10002,10000000001,10002,Bank One Austin ,Bouldin Ave,Austin,US,78704
+10003,10000000001,10003,Bank One Los Angeles ,Hollywood Blvd,Los Angeles,US,90001
+10004,10000000002,10004,Bank Two Denver,Elm Street,Denver,US,80014
+10005,10000000002,10005,Bank Two Austin ,Bouldin Ave,Austin,US,78704
+10006,10000000002,10006,Bank Two Los Angeles ,Hollywood Blvd,Los Angeles,US,90001
+10007,10000000003,10007,Bank Three Denver,Elm Street,Denver,US,80014
+10008,10000000003,10008,Bank Three Austin ,Bouldin Ave,Austin,US,78704
+10009,10000000003,10009,Bank Three Los Angeles ,Hollywood Blvd,Los Angeles,US,90001
+10010,10000000003,10010,Bank Three Boston,Kendall Square,Boston,US,2101
