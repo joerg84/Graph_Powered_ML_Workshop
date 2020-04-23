@@ -5,7 +5,7 @@ import sys
 # retrieving credentials from ArangoDB tutorial service
 def getTempCredentials():
   with open("creds.dat","r+") as cacheFile: 
-    contents = cacheFile.read()
+    contents = cacheFile.readline()
     if len(contents) > 0:
       #. check if credentials are still valid
       login = json.loads(contents)
@@ -28,6 +28,7 @@ def getTempCredentials():
       print("Error retrieving login data.")
       sys.exit()
     # Caching credentials
-    cacheFile.truncate() 
+    cacheFile.truncate(0) 
     cacheFile.write(x.text)
+    print("Temp database ready to use.")
   return json.loads(x.text)
