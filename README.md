@@ -8,6 +8,7 @@ Slides can be  found [here](https://docs.google.com/presentation/d/19L7b1h5HbngA
 * [SPARQL](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Sparql.ipynb)
 * [Graph Queries](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Graphs_Queries.ipynb)
 * [Graph Analytics]( https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Graph_Analytics.ipynb)
+* [Fraud Detection]( https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Fraud_Detection.ipynb)
 * [NetworkX](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/NetworkX.ipynb)
 * [Node2Vec](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Node2Vec.ipynb)
 * [Building a GCN from scratch](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Basic_GCN.ipynb)
