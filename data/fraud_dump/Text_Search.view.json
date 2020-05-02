@@ -1,0 +1,1 @@
+{"globallyUniqueId":"h7CC8359662CF/1626628","id":"1626628","name":"Text_Search","type":"arangosearch","cleanupIntervalStep":10,"commitIntervalMsec":1000,"consolidationIntervalMsec":60000,"consolidationPolicy":{"type":"bytes_accum","threshold":0.10000000149011612},"primarySort":[],"writebufferActive":0,"writebufferIdle":64,"writebufferSizeMax":33554432,"links":{}}
