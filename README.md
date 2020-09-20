@@ -5,6 +5,7 @@ Slides can be  found [here](https://docs.google.com/presentation/d/1O8MopCYL7tr4
 
 ## Tutorials
 
+* [Graph Properties](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Graph_properties.ipynb)
 * [SPARQL](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Sparql.ipynb)
 * [Graph Queries](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Graphs_Queries.ipynb)
 * [Graph Analytics]( https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Graph_Analytics.ipynb)
