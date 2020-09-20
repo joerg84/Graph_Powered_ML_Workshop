@@ -34,7 +34,7 @@ def getTempCredentials():
     
         # Retrieve new credentials from Foxx Service
         print("Requesting new temp credentials.")
-        url = 'https://d383fa0b596a.arangodb.cloud:8529/_db/_system/tutorialDB/tutorialDB'
+        url = 'https://tutorials.arangodb.cloud:8529/_db/_system/tutorialDB/tutorialDB'
         x = requests.post(url, data = "{}")
 
         if x.status_code != 200:
