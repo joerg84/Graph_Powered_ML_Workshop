@@ -1,7 +1,7 @@
 # Graph Powered Machine Learning
  
 ## Slides 
-Slides can be  found [here](https://docs.google.com/presentation/d/19L7b1h5HbngAWAmvLvsI3L93qsvzk-v7djWbTi8q_gM/).
+Slides can be  found [here](https://docs.google.com/presentation/d/1O8MopCYL7tr4cavs23mbuf4TW2C1Cy8XW9E96Qs9PzA).
 
 ## Tutorials
 
