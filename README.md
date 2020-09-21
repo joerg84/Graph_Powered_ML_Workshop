@@ -16,4 +16,7 @@ Slides can be  found [here](https://docs.google.com/presentation/d/1O8MopCYL7tr4
 * [Deep Graph Library](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/DGL.ipynb)
 * [Metadata](https://colab.research.google.com/github/joerg84/Graph_Powered_ML_Workshop/blob/master/Metadata.ipynb)
 
+## Exercises
+The exercises can be found [here](https://github.com/joerg84/Graph_Powered_ML_Workshop/tree/master/excercises), please refer to slides for logistics.
+
 
